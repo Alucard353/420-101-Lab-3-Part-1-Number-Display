@@ -22,4 +22,4 @@ Q3: When you create of change the relationship
 Q4: /**
 * A tutor which acts as an instructor for the students
 /**
-Q5: 
+Q6: You should call the get string display value to see the amount of increments and if they have reached 60 to roll over the hours one.
