@@ -27,4 +27,5 @@ Q8: The call to set the value to 3 worked as storing the change however when try
 Q9: The result will be the value returned as 0 because the value it returns can not be the same as it roll over value it must be less then the set value
 Q10: Error: none-static method get Value() cannot be referenced from a static context
 Q11: Error:'.class' expected, call is incorrect because a proper class wasn't used therefore it doesn't know what to use
-    
+Q13: The only valid replacement value is now 0
+Q14:    
