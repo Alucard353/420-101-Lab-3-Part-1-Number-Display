@@ -31,3 +31,6 @@ Q13: The only valid replacement value is now 0
 Q14: Some valid parameters for this test would be the limit + 10, the limit, and -1
 Q15: The first and second expressions are true
 Q16: a == b
+Q18: The return string is the 100 that I setValue too
+Q19: They will produce the same result by converting the value to a string
+Q20: Yes it did, but it works this way because 9 + 3 as numbers and they are added right before the string is added
