@@ -23,3 +23,8 @@ Q4: /**
 * A tutor which acts as an instructor for the students
 /**
 Q6: You should call the get string display value to see the amount of increments and if they have reached 60 to roll over the hours one.
+Q8: The call to set the value to 3 worked as storing the change however when trying to store the value as 10 it would not save.
+Q9: The result will be the value returned as 0 because the value it returns can not be the same as it roll over value it must be less then the set value
+Q10: Error: none-static method get Value() cannot be referenced from a static context
+Q11: Error:'.class' expected, call is incorrect because a proper class wasn't used therefore it doesn't know what to use
+    
