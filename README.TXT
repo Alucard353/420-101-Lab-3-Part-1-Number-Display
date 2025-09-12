@@ -28,4 +28,6 @@ Q9: The result will be the value returned as 0 because the value it returns can 
 Q10: Error: none-static method get Value() cannot be referenced from a static context
 Q11: Error:'.class' expected, call is incorrect because a proper class wasn't used therefore it doesn't know what to use
 Q13: The only valid replacement value is now 0
-Q14:    
+Q14: Some valid parameters for this test would be the limit + 10, the limit, and -1
+Q15: The first and second expressions are true
+Q16: a == b
